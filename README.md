@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-Aplicación React para TEST IX de planes de carrera.
+Aplicación React para TEST IX de planes de carrera se utilizó Bootstrap para maquetar.
 Por cuestión de tiempo no pude realizar una linda estética, me costó ambas partes tanto back como front.
 Se cumple con el CRUD de colaborador faltó vistas de CRUD de Usuarios y Habilidades.
 
